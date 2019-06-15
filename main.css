@@ -1402,8 +1402,8 @@
 	}
 
 	body {
-		background-color: #000;
-		background-image: url("mydream/bg.jpg");
+		background-color: transperent;
+		background-image: url(".../bg.jpg");
 		background-size: cover;
 		background-position: top center;
 	}
